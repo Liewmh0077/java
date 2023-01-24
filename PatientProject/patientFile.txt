@@ -1,0 +1,19 @@
+ID : 1002
+Name : Cheng Lok
+IC :050721-04-2734
+Phone No :014-3146596
+Gender :Male
+
+ID : 1003
+Name : Xiu Ting
+IC :980327-06-3062
+Phone No :011-2373934
+Gender :Female
+
+ID : 1004
+Name : liew
+IC :010206-06-4123
+Phone No :018-3573262
+Gender :female
+
+
